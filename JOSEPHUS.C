@@ -107,8 +107,10 @@ void main()
 		else if(ch==2)
 			return;
 		else
+		{
 			printf("niBBa dont insert unvalid option!!\n");
 			getch();
+		}
 	}
 }
 
